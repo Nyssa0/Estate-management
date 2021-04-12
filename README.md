@@ -5,4 +5,4 @@ Ce projet est une application de gestion de lotissement faite en SQL. Vous pourr
 ### Auteurs
 ```
 Hassina AYACHI
-Archibald Sabatier
+Archibald SABATIER
