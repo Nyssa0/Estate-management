@@ -17,21 +17,11 @@
  
 ## 🖥 Introduction 🖥
 
-## 🛠 Languages 🛠
+This project is an estate managing app. You can find the subject in the GitHub.
 
-[<img alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+ ## 🛠 Languages 🛠
+
 [<img alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img alt="IntelliJ IDEA" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />][webdevplaylist]
-[<img alt="PhpStorm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" />][webdevplaylist]
-[<img alt="PhpMyAdmin" width="30px" src="https://www.tuto-synology.fr/wp-content/uploads/2014/03/logo-phpmyadmin-1024x538.png" />][webdevplaylist]
-[<img alt="Mamp" width="30px" src="https://www.mamp.info/images/icons/mamp-pro.png" />][webdevplaylist]
-[<img alt="Spark" width="30px" src="https://theme.zdassets.com/theme_assets/942663/19b07c8c1d2149cd316f950522bba4bad78bf32a.png" />][webdevplaylist]
-[<img alt="Canva" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" />][webdevplaylist]
-[<img alt="XD" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" />][webdevplaylist]
-[<img alt="iMovie" width="30px" src="https://help.apple.com/assets/5FA5CE6C0946225F74BB657F/5FA5CE6F0946225F74BB658D/fr_FR/7ed8a31ab3b640ddcc899151ffc16c9f.png" />][webdevplaylist]
 
 ## 👩🏻‍💻 Authors 🧑🏻‍💻
 ```
